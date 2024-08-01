@@ -1,7 +1,7 @@
 # Eureka server URL
-spring:
-  application:
-    name: CONFIG-DEFAULT
+# spring:
+#   application:
+#     name: CONFIG-DEFAULT
     
 eureka:
   instance:
